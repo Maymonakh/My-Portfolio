@@ -86,7 +86,7 @@ box-shadow: 0 -2px 10px rgba(0, 0, 0, 1);
 transform: scale(1.05,1.05);
 }
 
-header {
+#header {
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -163,7 +163,7 @@ main{
   }
 
 
-.About{
+#About{
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -173,28 +173,28 @@ main{
     
   }
 
-.About div{
+#About div{
     width: 50%;
 }
 
-.About .title{
+#About .title{
   margin-top: -350px;
 }
 
-.About .about-more{
+#About .about-more{
   margin-left: 0px;
   background-color: #f3b646;
   width: 400px;
   
 }
 
-.About .title h1{
+#About .title h1{
   color: #333;
   font-size: 50px;
   border-bottom: 5px solid rgba(0, 0, 0, 0.2);
 }
 
-.About .about-more p{
+#About .about-more p{
   width:90%;
   color: #333;
   font-size: 20px;
@@ -203,7 +203,7 @@ main{
 
 }
 
-.About .resume{
+#About .resume{
   padding: 10px 20px;
   border: 3px #f7f7f7  solid;
   border-radius: 20px;
@@ -214,18 +214,19 @@ main{
 
 }
 
-.About .resume a{
+#About .resume a{
     color: #f7f7f7;
     font-size: 15px;
     font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
-.About .resume:hover{
+#About .resume:hover{
   background-color: #f7f7f7;
 }
 
-.About .resume:hover a{
+#About .resume:hover a{
   color: #f3b646;
 }
 
