@@ -148,11 +148,14 @@ transform: scale(1.05,1.05);
 
 .social li a{
   padding: 10px;
+  padding-bottom: 5px;
   border-radius: 0.5rem;
   transition: all 0.3s ease;
+  text-align: center;
 }
   
 .social li a:hover {
+  border-radius: 20px;
   box-shadow: 0 -2px 10px rgb(248, 203, 2);
   transform: scale(1.05,1.05);
   }
@@ -177,7 +180,7 @@ main{
     width: 50%;
 }
 
-#About .title{
+ .title{
   margin-top: -350px;
 }
 
@@ -188,7 +191,7 @@ main{
   
 }
 
-#About .title h1{
+ .title h1{
   color: #333;
   font-size: 50px;
   border-bottom: 5px solid rgba(0, 0, 0, 0.2);
@@ -211,7 +214,7 @@ main{
   margin-bottom: 20px;
   margin-left: 20px;
   margin-top: 20px;
-
+  cursor: pointer;
 }
 
 #About .resume a{
@@ -228,6 +231,53 @@ main{
 
 #About .resume:hover a{
   color: #f3b646;
+}
+
+#skills{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  height: 100vh;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#skills .title{
+  margin-top: 20px;
+  width: 500px;
+}
+
+.skills-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 100px;
+  background-color: white;
+  margin-top: 50px;
+  border-radius: 30px;
+}
+
+.skill{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    padding-top: 60px;
+    cursor: pointer;
+    
+}
+
+.skill i{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.skill h5{
+  font-size: 20px;
+  font-family:  "Trirong", sans-serif;
 }
 
 
