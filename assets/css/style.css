@@ -515,11 +515,72 @@ aside {
 
 }
 
-
-
-
-
 }
+
+@media (max-width: 850px){
+  .menu{
+    display: block;
+    position: fixed;
+    margin-left: 50%;
+    font-size: 40px;
+    z-index: 5;
+    background-color: white;
+    padding: 8px;
+    border-radius: 10px;
+  }
+  
+  aside{
+    display: none;
+    margin-top: 5px;
+  }
+  
+  #header{
+    flex-direction: column;
+    gap: 60px;
+  }
+  
+  main{
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  #About  img{
+    display: none;
+  }
+  
+  #About{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    
+  }
+  
+  #About div{
+    width: 100%;
+  }
+  
+  #About .about-more{
+    width: 90%;
+  }
+  
+  .skills-container{
+    margin: 200px 0;
+
+  }
+  
+  .show {
+    display: block; 
+  }
+  
+  aside {
+    width: 30%;
+    padding: 0px;
+  
+  }
+  
+  }
+  
+  
 
 
 
