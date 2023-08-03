@@ -34,7 +34,7 @@ ul{
 
 .title img{
 animation: maple;
-animation-duration: 4s;
+animation-duration: 2s;
 animation-iteration-count: infinite;
 filter: drop-shadow(0px 0px 2px #eef0a2a9) drop-shadow(0px 0px 3px #a2c6f0a9);
 }
@@ -218,7 +218,8 @@ nav h1{
 }
 
 .social li a:hover{
-transform: scale(1.3,1.3);
+  transform: scale(1.3,1.3);
+  color: #fac85e;
 }
   
 main{
@@ -439,16 +440,19 @@ main{
   align-items: center;
   justify-content:center;
   flex-direction: column;
-  background-color: #fac85e;
+  background-color: white;
   margin-top: 50px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
   padding: 40px;
   font-size: 15px;
   font-family:  "Trirong", sans-serif;
   font-weight: bold;
-  box-shadow: 0 0 5px rgba(0,0,0,0.75);
+}
 
+#contact .contact-container p:nth-child(3){
+ font-size: 12px;
+ color: grey;
+ font-weight: 200;
+ margin-top: 20px;
 
 }
 
