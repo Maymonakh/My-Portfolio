@@ -37,6 +37,7 @@
 <h2>Projects : </h2>
 
 <br>
+
 ![Alt text](/assets/img/3.png)
 
 <hr>
