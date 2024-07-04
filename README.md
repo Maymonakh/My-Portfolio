@@ -10,6 +10,9 @@
 <hr>
   <h2>Notes</h2>
  <p> This project is a part of the <a href="https://www.foothillsolutions.com/">Foothill Solutions<a/>  internship program.<p>
+ <br>
+  <p> The project link <a href="[https://64a876ae5489340f7876a733--friendly-shortbread-691b0b.netlify.app/index.html](https://lucent-vacherin-039111.netlify.app)">Click Here</a>  <p>
+
 
 <hr>
 <br>
