@@ -10,3 +10,33 @@
 <hr>
   <h2>Notes</h2>
  <p> This project is a part of the <a href="https://www.foothillsolutions.com/">Foothill Solutions<a/>  internship program.<p>
+
+<hr>
+<br>
+ <h2>Header : </h2>
+
+
+![Alt text](/assets/img/1.png)
+
+<br>
+
+<h2>About : </h2>
+
+<br>
+
+![Alt text](/assets/img/2.png)
+
+<h2>Skills : </h2>
+
+<br>
+
+![Alt text](/assets/img/4.png)
+<br>
+
+
+<h2>Projects : </h2>
+
+<br>
+![Alt text](/assets/img/3.png)
+
+<hr>
