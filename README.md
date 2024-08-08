@@ -14,34 +14,3 @@
     <p> The project link <a href="https://lucent-vacherin-039111.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR1C5v1tb_SuMasQSs2tN43rqxSnD47leLHu6LDRX3utcHXNhE-EdCZ-qIQ_aem_L83yA58WmFutHWSABpmahA">Click Here</a>  <p>
 
 
-
-<hr>
-<br>
- <h2>Header : </h2>
-
-
-![Alt text](/assets/img/1.png)
-
-<br>
-
-<h2>About : </h2>
-
-<br>
-
-![Alt text](/assets/img/2.png)
-
-<h2>Skills : </h2>
-
-<br>
-
-![Alt text](/assets/img/4.png)
-<br>
-
-
-<h2>Projects : </h2>
-
-<br>
-
-![Alt text](/assets/img/3.png)
-
-<hr>
